@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HiP-HOPS</title>
-    <link>https://davidparkerdr.github.io/hip-hops/categories/</link>
+    <link>hip-hops.co.uk/categories/</link>
     <description>Recent content in Categories on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://davidparkerdr.github.io/hip-hops/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hip-hops.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

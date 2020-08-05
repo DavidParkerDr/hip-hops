@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HiP-HOPS</title>
-    <link>https://davidparkerdr.github.io/hip-hops/tags/</link>
+    <link>hip-hops.co.uk/tags/</link>
     <description>Recent content in Tags on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://davidparkerdr.github.io/hip-hops/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hip-hops.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#version update</title>
-      <link>https://davidparkerdr.github.io/hip-hops/tags/#version-update/</link>
+      <link>hip-hops.co.uk/tags/#version-update/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://davidparkerdr.github.io/hip-hops/tags/#version-update/</guid>
+      <guid>hip-hops.co.uk/tags/#version-update/</guid>
       <description></description>
     </item>
     
