@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#version update on HiP-HOPS</title>
+    <link>https://hip-hops.co.uk/tags/#version-update/</link>
+    <description>Recent content in #version update on HiP-HOPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hip-hops.co.uk/tags/#version-update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Version Update 2.5.899</title>
+      <link>https://hip-hops.co.uk/post/2020-04-18-version-update-2_5_899/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2020-04-18-version-update-2_5_899/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; updated unavailability calculations&lt;br&gt;
+&lt;strong&gt;[feature]&lt;/strong&gt; added frequency calculation&lt;br&gt;
+&lt;strong&gt;[fix]&lt;/strong&gt; Matlab interface bug the prevented editing of exiting failure logic&lt;br&gt;
+&lt;strong&gt;[fix]&lt;/strong&gt; Matlab interface bug preventing output to XML&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.893</title>
+      <link>https://hip-hops.co.uk/post/2016-08-18-version-update-2_5_893/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2016-08-18-version-update-2_5_893/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Bug in the Matlab GUI scripts that caused an error if the top subsystem in the model had the same name as the model.&lt;br&gt;
+&lt;strong&gt;[fix]&lt;/strong&gt; Bug in the HiP-HOPS engine that prevented the user from targeting a system level implicit output deviation when the explicit deviation is in a subsystem.&lt;br&gt;
+&lt;strong&gt;[fix]&lt;/strong&gt; The xml output from the Matlab GUI script now includes line breaks after tags to make the line numbers in the HiP-HOPS parse errors more meaningful.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.891</title>
+      <link>https://hip-hops.co.uk/post/2016-08-01-version-update-2_5_891/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2016-08-01-version-update-2_5_891/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Issues with applying the consensus law in non-coherent fault trees.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.890</title>
+      <link>https://hip-hops.co.uk/post/2016-07-19-version-update-2_5_890/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2016-07-19-version-update-2_5_890/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Fixed a number of sources of memory leaks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.888</title>
+      <link>https://hip-hops.co.uk/post/2016-01-12-version-update-2_5_888/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2016-01-12-version-update-2_5_888/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Fixed a bug which was causing a crash under certain circumstances when the command argument idevns=false was used.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.887</title>
+      <link>https://hip-hops.co.uk/post/2015-12-08-version-update-2_5_887/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2015-12-08-version-update-2_5_887/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Fixed a bug in the Matlab GUI script where ports were not being properly exported to the HiP-HOPS xml model file.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.885</title>
+      <link>https://hip-hops.co.uk/post/2014-11-26-version-update-2_5_885/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-11-26-version-update-2_5_885/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Fixed missing generations field in Matlab Failure Editor GUI&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.883</title>
+      <link>https://hip-hops.co.uk/post/2014-10-22-version-update-2_5_883/</link>
+      <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-10-22-version-update-2_5_883/</guid>
+      <description>&lt;p&gt;Updated Matlab2Hipx to allow Matlab libraries to be analysed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.881</title>
+      <link>https://hip-hops.co.uk/post/2014-09-24-version-update-2_5_881/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-09-24-version-update-2_5_881/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.882</title>
+      <link>https://hip-hops.co.uk/post/2014-09-24-version-update-2_5_882/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-09-24-version-update-2_5_882/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Fixed bug to do with cut set pruning. Should yield improved performance in certain fault trees.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.879</title>
+      <link>https://hip-hops.co.uk/post/2014-07-08-version-update-2_5_879/</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-07-08-version-update-2_5_879/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; Added experimental ASIL decomposition utility.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.878</title>
+      <link>https://hip-hops.co.uk/post/2014-06-10-version-update-2_5_878/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-06-10-version-update-2_5_878/</guid>
+      <description>&lt;p&gt;Updated the PCCF handling in the output so that they stay visible. This way it is possible to see which components are connecting to a given common cause failure. Also:&lt;br&gt;
+&lt;strong&gt;[Fix]&lt;/strong&gt; Corrected a fault with lines that transform failure classes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.877</title>
+      <link>https://hip-hops.co.uk/post/2014-06-05-version-update-2_5_877/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-06-05-version-update-2_5_877/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.876</title>
+      <link>https://hip-hops.co.uk/post/2014-03-17-version-update-2_5_876/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-03-17-version-update-2_5_876/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Corrected Minor Asil decompostion usability issue.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.873</title>
+      <link>https://hip-hops.co.uk/post/2014-03-10-version-update-2_5_873/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-03-10-version-update-2_5_873/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; Updated ASIL parameters to include number of output solutions and a cost heuristic.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.874</title>
+      <link>https://hip-hops.co.uk/post/2014-03-10-version-update-2_5_874/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2014-03-10-version-update-2_5_874/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Updated to ensure backwards compatibility with Windows XP.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.872</title>
+      <link>https://hip-hops.co.uk/post/2013-11-21-version-update-2_5_872/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-11-21-version-update-2_5_872/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[Fix]&lt;/strong&gt; HiP-HOPS now gracefully handles running out of memory rather than crashing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.870</title>
+      <link>https://hip-hops.co.uk/post/2013-11-20-version-update-2_5_870/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-11-20-version-update-2_5_870/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[Fix]&lt;/strong&gt; Excessive numbers of warnings no longer cause an out of memory crash. Warning numbers capped at 100 whilst still recording the total number of errors.&lt;br&gt;
+&lt;strong&gt;[Fix]&lt;/strong&gt; Incorrect parser error causing crash.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.871</title>
+      <link>https://hip-hops.co.uk/post/2013-11-20-version-update-2_5_871/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-11-20-version-update-2_5_871/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[Fix]&lt;/strong&gt; Bug in Matlab Failure Editor that allowed component data to be overwritten with other component data.&lt;br&gt;
+&lt;strong&gt;[Fix]&lt;/strong&gt; Bug in Matlab Failure Editor that occurred when users switched from a perspective to a component.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.869</title>
+      <link>https://hip-hops.co.uk/post/2013-10-25-version-update-2_5_869/</link>
+      <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-10-25-version-update-2_5_869/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; Updated to ensure IE 11 compatibility.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.867</title>
+      <link>https://hip-hops.co.uk/post/2013-10-18-version-update-2_5_867/</link>
+      <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-10-18-version-update-2_5_867/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[Fix]&lt;/strong&gt; Updated to support results viewing in IE10.&lt;br&gt;
+&lt;strong&gt;[Fix]&lt;/strong&gt; Updated output format to show optimisation output in a consistent style to the other analysis results.&lt;br&gt;
+&lt;strong&gt;[Fix]&lt;/strong&gt; Updated output to allow going back to the list of optimisation results from a specific candidate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.862</title>
+      <link>https://hip-hops.co.uk/post/2013-07-31-version-update-2_5_862/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-07-31-version-update-2_5_862/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[Fix]&lt;/strong&gt; Added missing xsl files in FTOutput folder.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.861</title>
+      <link>https://hip-hops.co.uk/post/2013-07-29-version-update-2_5_861/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-07-29-version-update-2_5_861/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.857</title>
+      <link>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_857/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_857/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.859</title>
+      <link>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_859/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_859/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Version Update 2.5.860</title>
+      <link>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_860/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2013-07-18-version-update-2_5_860/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
