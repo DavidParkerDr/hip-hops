@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on HiP-HOPS</title>
-    <link>hip-hops.co.uk/page/</link>
+    <link>https://hip-hops.co.uk/page/</link>
     <description>Recent content in Pages on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="hip-hops.co.uk/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hip-hops.co.uk/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact Us</title>
-      <link>hip-hops.co.uk/page/contact/</link>
+      <link>https://hip-hops.co.uk/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hip-hops.co.uk/page/contact/</guid>
+      <guid>https://hip-hops.co.uk/page/contact/</guid>
       <description>Yiannis Papadopoulos
 University of Hull,
 Robert Blackburn,
@@ -26,29 +26,29 @@ Email: Y.I.Papadopoulos@hull.ac.uk</description>
     
     <item>
       <title>How It Works</title>
-      <link>hip-hops.co.uk/page/how_it_works/</link>
+      <link>https://hip-hops.co.uk/page/how_it_works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hip-hops.co.uk/page/how_it_works/</guid>
+      <guid>https://hip-hops.co.uk/page/how_it_works/</guid>
       <description>We have developed a case study of a Hybrid Braking System (HBS) to illustrate some of the features of the HiP-HOPS technique.
 HBS Overview The HBS is meant for electrical vehicle integration, specifically for architectures that consider one electrical motor per wheel. It is a brake-by-wire system as it does not contain a hydraulic link between the brake pedal and individual wheel-braking actuators; instead it includes an electronic redundant bus system that allows for central and local-wheel control units to communicate.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>hip-hops.co.uk/page/publications/</link>
+      <link>https://hip-hops.co.uk/page/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hip-hops.co.uk/page/publications/</guid>
+      <guid>https://hip-hops.co.uk/page/publications/</guid>
       <description>A comprehensive list of publications, including many full-text copies, can be found here: ResearchGate.</description>
     </item>
     
     <item>
       <title>The HiP-HOPS Manual</title>
-      <link>hip-hops.co.uk/page/manual/</link>
+      <link>https://hip-hops.co.uk/page/manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hip-hops.co.uk/page/manual/</guid>
+      <guid>https://hip-hops.co.uk/page/manual/</guid>
       <description>For the moment, all of HiP-HOPS secrets are available in this PDF manual.</description>
     </item>
     
