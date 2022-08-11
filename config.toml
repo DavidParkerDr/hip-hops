@@ -1,0 +1,48 @@
+baseurl = "https://hip-hops.co.uk"
+DefaultContentLanguage = "en"
+title = "HiP-HOPS"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+
+[Params]
+  subtitle = "Automated Safety and Dependability Analysis and Optimisation"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+
+[Author]
+  name = "#hip-hops"
+  website = "hip-hops.co.uk"
+ 
+
+[[menu.main]]
+    name = "Downloads"
+    url = "post/"
+    weight = 2
+
+[[menu.main]]
+    name = "Publications"
+    url = "page/publications/"
+    weight = 3
+
+[[menu.main]]
+    name = "The Manual"
+    url = "page/manual/"
+    weight = 4
+
+[[menu.main]]
+    name = "How It Works"
+    url = "page/how_it_works/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact Us"
+    url = "page/contact/"
+    weight = 6
+
