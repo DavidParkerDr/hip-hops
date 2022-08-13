@@ -5,10 +5,16 @@
     <link>https://hip-hops.co.uk/</link>
     <description>Recent content on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Update 2.5.900</title>
+      <link>https://hip-hops.co.uk/post/2022-08-13-version-update-2_5_900/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2022-08-13-version-update-2_5_900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; added severity field to Hazards dialog in the Matlab GUI&lt;br&gt;
+&lt;strong&gt;[fix]&lt;/strong&gt; Matlab interface bug the prevented editing and deleting of failure causes in output deviations and hazards&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Version Update 2.5.899</title>
