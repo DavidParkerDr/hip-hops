@@ -5,7 +5,18 @@
     <link>https://hip-hops.co.uk/</link>
     <description>Recent content on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Update 2.5.902</title>
+      <link>https://hip-hops.co.uk/post/2023-01-23-version-update-2_5_902/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2023-01-23-version-update-2_5_902/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; complete overhaul of the Matlab Simulink user interface.&lt;br&gt;
+&lt;strong&gt;[feature]&lt;/strong&gt; refresh of the manual.
+&lt;strong&gt;[feature]&lt;/strong&gt; updated set of example/tutorial models to illustrate concepts in the updated manual.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Version Update 2.5.901</title>
       <link>https://hip-hops.co.uk/post/2022-10-17-version-update-2_5_901/</link>
