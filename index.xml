@@ -5,7 +5,17 @@
     <link>https://hip-hops.co.uk/</link>
     <description>Recent content on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Update 2.5.904</title>
+      <link>https://hip-hops.co.uk/post/2023-02-03-version-update-2_5_904/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2023-02-03-version-update-2_5_904/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[feature]&lt;/strong&gt; The Matlab Failure Editor UI has been updated to improve the user experience. The UI will automatically detect available deviations for a component based on the propagations from other connected components. These can then be added to a failure definition from a pre-populated list rather than having to manually type in the failure. This should result in fewer errors due to typos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[note]&lt;/strong&gt; There is a known issue when using Chrome as the default browser. If the output type is set to HTML, HiP-HOPS will automatically attempt to open the results output in the default browser. When the default browser is Chrome, and Chrome is not already open, the system call appears to wait indefinitely before releasing for other processes to continue when the browser is closed. This issue appears to be isolated to Chrome and does not present with other browsers including Edge and Firefox. There is no fix for this, but it can be worked around by opening Chrome before running the analysis.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Version Update 2.5.903</title>
       <link>https://hip-hops.co.uk/post/2023-02-03-version-update-2_5_903/</link>
