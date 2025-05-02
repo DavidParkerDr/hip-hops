@@ -5,7 +5,17 @@
     <link>https://hip-hops.co.uk/post/</link>
     <description>Recent content in Posts on HiP-HOPS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hip-hops.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Update 2.5.906</title>
+      <link>https://hip-hops.co.uk/post/2025-05-02-version-update-2_5_906/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://hip-hops.co.uk/post/2025-05-02-version-update-2_5_906/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[fix]&lt;/strong&gt; In Chrome based browsers there was a bug that prevented the treeview from operating properly when you returned to the treeview having navigated somewhere else.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[note]&lt;/strong&gt; There is a known issue when using Chrome as the default browser. If the output type is set to HTML, HiP-HOPS will automatically attempt to open the results output in the default browser. When the default browser is Chrome, and Chrome is not already open, the system call appears to wait indefinitely before releasing for other processes to continue when the browser is closed. This issue appears to be isolated to Chrome and does not present with other browsers including Edge and Firefox. There is no fix for this, but it can be worked around by opening Chrome before running the analysis.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Version Update 2.5.905</title>
       <link>https://hip-hops.co.uk/post/2023-02-03-version-update-2_5_905/</link>
